@@ -99,7 +99,7 @@ public class SimpleWriteToTable {
             System.out.println(e.getMessage());
         }
         
-       
+   //test    
     }
 	
 	public static void create() throws InterruptedException, SQLException
